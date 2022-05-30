@@ -61,11 +61,7 @@ describe('headHunter course', () => {
         mobileReplenishment.checkDebitAmount('1')
         mobileReplenishment.checkDebitCommission('2')
 
-    
-        // cy.request('https://next.privat24.ua')
-        //     .then((response) => {
-        //         console.log(response);
-        //     })
+
     })
 
 
